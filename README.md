@@ -43,7 +43,7 @@ List of offically and unofficially supported smartphones for [Daydream VR platfo
 
 ### Unofficially supported:
 
-    In order to support high performance virtual reality mode (required for official Daydream VR support), your device must have support for the Vulkan Graphics API with Open GL ES 3.2 and a screen resolution of at least 1080p at a refresh rate of 60Hz minimum with ideally 3ms or less display latency and 5mm or less persistence. The screen should also be between 4.7″ and 6″ in size and the device should support Bluetooth 4.2 LE and have temperature sensors to read the body temperature of the phone.
+>In order to support high performance virtual reality mode (required for official Daydream VR support), your device must have support for the Vulkan Graphics API with Open GL ES 3.2 and a screen resolution of at least 1080p at a refresh rate of 60Hz minimum with ideally 3ms or less display latency and 5mm or less persistence. The screen should also be between 4.7″ and 6″ in size and the device should support Bluetooth 4.2 LE and have temperature sensors to read the body temperature of the phone.
 
 
 #### OnePlus:
